@@ -2,10 +2,12 @@
 
 <h3>Create</h3>
 <div id="brandLogo">
+Brand
     <!-- Brand's appear here -->
 </div>
 <h3>in the style of</h3>
 <div id="styleOf">
+Style
     <!-- Style shows up here -->
 </div>
 <h3> </h3>
