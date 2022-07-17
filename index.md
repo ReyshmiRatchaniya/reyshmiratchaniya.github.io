@@ -5,6 +5,8 @@ Click "New Pair" to generate a prompt. Using the prompt, create it and save it. 
 
 We'll attempt to guess each other's prompts afterwards. Have fun!
 
+***
+
 #### Create
 
 <div id="brandLogo">
