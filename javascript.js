@@ -1,30 +1,37 @@
 var brand = [
-    'Apple',
-    'Mintel',
     'Ikea',
-    'Western Digital',
+    'Apple',
+    'Heinz',
     'Coca Cola',
     'Starbucks',
+    'Mintel',
     'Sony',
     'Canon',
-    'Lonely Planet',
-    'Glade',
-    'Febreeze',
-    'Watsons',
-    'Lifebuoy',
+    'Twitter',
+    'Nintendo',
+    'Amazon',
+    'Yahoo!',
+    'BBC',
     'Nestle',
     'Cadbury',
-    'Twinings',
-    'Adobe',
+    'Pringles',
+    'Snickers',
     'Steam',
-    'Aesop',
+    'Subway',
     'Pepsi'
 ]
 
 var style = [
     'Stranger Things',
     'Barbie',
-    'A 5-year old\'s drawing'
+    'A 5-year old\'s drawing',
+    'A family crest',
+    'Super Grungy Emo Angsty Vibes',
+    '60\'s - imagine andy warhol\'s campbell soup or anything in the 60\'s lol',
+    '1980\'s Vision of the Future',
+    '\'GrApHiC DeSiGn iS My pAsSiOn\'',
+    '80\'s Vintage Comicbooks',
+    '\'draw me like one of your french girls\''
 ]
 
 
