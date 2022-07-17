@@ -1,7 +1,7 @@
 ## Welcome to Reyshmi's Skillshare Generator
 
 <h3>Create</h3>
-<div id="brandLogo"></div>
+<div id="brandLogo">
     <!-- Brand's appear here -->
 </div>
 <h3>in the style of</h3>
