@@ -31,7 +31,9 @@ var style = [
     '1980\'s Vision of the Future',
     '\'GrApHiC DeSiGn iS My pAsSiOn\'',
     '80\'s Vintage Comicbooks',
-    '\'draw me like one of your french girls\''
+    '\'draw me like one of your french girls\'',
+    '\'Something Phoebe Buffay would create \'',
+    'lines, lines, lines, and more lines'
 ]
 
 
