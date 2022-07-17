@@ -1,16 +1,26 @@
-## Welcome to Reyshmi's Skillshare Generator
+# The Generating Generator
 
-<h3>Create</h3>
+### How it works
+Click "New Pair" to generate a prompt. Using the prompt, create it and save it. Then click the button again for a new pairing!
+
+We'll attempt to guess each other's prompts afterwards. Have fun!
+
+#### Create
+
 <div id="brandLogo">
 Brand
     <!-- Brand's appear here -->
 </div>
-<h3>in the style of</h3>
+
+#### in the style of
+
 <div id="styleOf">
 Style
     <!-- Style shows up here -->
 </div>
-<h3> </h3>
+
+# 
+
 <button onclick="newPair()">New Pair</button>
 
 <script src="javascript.js"></script>
