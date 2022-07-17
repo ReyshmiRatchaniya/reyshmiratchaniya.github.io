@@ -35,3 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### Reyshmi's Skillshare Generator
+<h3>Create</h3>
+<div id="brandLogo">
+    <!-- Brand's appear here -->
+</div>
+<h3>in the style of</h3>
+<div id="styleOf">
+    <!-- Style shows up here -->
+</div>
+<h3> </h3>
+<button onclick="newPair()">New Pair</button>
+
+<script src="javascript.js"></script>
