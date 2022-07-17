@@ -1,10 +1,30 @@
 var brand = [
     'Apple',
-    'Mintel'
+    'Mintel',
+    'Ikea',
+    'Western Digital',
+    'Coca Cola',
+    'Starbucks',
+    'Sony',
+    'Canon',
+    'Lonely Planet',
+    'Glade',
+    'Febreeze',
+    'Watsons',
+    'Lifebuoy',
+    'Nestle',
+    'Cadbury',
+    'Twinings',
+    'Adobe',
+    'Steam',
+    'Aesop',
+    'Pepsi'
 ]
 
 var style = [
-    'Stranger Things'
+    'Stranger Things',
+    'Barbie',
+    'A 5-year old\'s drawing'
 ]
 
 
