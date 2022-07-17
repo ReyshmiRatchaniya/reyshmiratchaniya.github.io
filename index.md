@@ -19,7 +19,7 @@ Style
     <!-- Style shows up here -->
 </div>
 
-# 
+#  
 
 <button onclick="newPair()">New Pair</button>
 
