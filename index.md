@@ -1,3 +1,6 @@
+---
+---
+
 # The Generating Generator
 
 ### How it works
@@ -9,17 +12,17 @@ We'll attempt to guess each other's prompts afterwards. Have fun!
 
 #### Create
 
-<div id="brandLogo">
+<h3 id="brandLogo">
 Brand
     <!-- Brand's appear here -->
-</div>
+</h3>
 
 #### in the style of
 
-<div id="styleOf">
+<h3 id="styleOf">
 Style
     <!-- Style shows up here -->
-</div>
+</h3>
 
 <button onclick="newPair()">New Pair</button>
 
