@@ -22,18 +22,24 @@ var brand = [
 ]
 
 var style = [
-    'Stranger Things',
-    'Barbie',
-    'A 5-year old\'s drawing',
-    'A family crest',
-    'Super Grungy Emo Angsty Vibes',
+    'stranger things',
+    'barbie',
+    'a 5-year old\'s drawing',
+    'a family crest',
+    'super grungy emo angsty vibes',
     '60\'s - imagine andy warhol\'s campbell soup or anything in the 60\'s lol',
     '1980\'s Vision of the Future',
     '\'GrApHiC DeSiGn iS My pAsSiOn\'',
     '80\'s Vintage Comicbooks',
     '\'draw me like one of your french girls\'',
-    '\'Something Phoebe Buffay would create \'',
-    'lines, lines, lines, and more lines'
+    '\'something Phoebe Buffay would create \'',
+    'lines, lines, lines, and more lines',
+    'pixels, 8 bit, mario kart - you get it',
+    'a last minute assignment - imagine it\'s 4am, you\'ve got a design presentation but you\'ve had a little too much to drink the night before and now you are regretting your life choices',
+    'minimalist boring bleh',
+    'a mum running her own home business',
+    'like its a luxury brand',
+    'like it would belong in a neon lit street - imagine shibuya/blade runner 2047'
 ]
 
 
