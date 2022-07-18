@@ -16,8 +16,8 @@ var brand = [
     'Cadbury',
     'Pringles',
     'Snickers',
-    'Steam',
-    'Subway',
+    'Tesla',
+    'Dunkin Donuts',
     'Pepsi'
 ]
 
@@ -30,7 +30,7 @@ var style = [
     '60\'s - imagine andy warhol\'s campbell soup or anything in the 60\'s lol',
     '1980\'s Vision of the Future',
     '\'GrApHiC DeSiGn iS My pAsSiOn\'',
-    '80\'s Vintage Comicbooks',
+    'Comicbooks',
     '\'draw me like one of your french girls\'',
     '\'something Phoebe Buffay would create \'',
     'lines, lines, lines, and more lines',
@@ -39,7 +39,8 @@ var style = [
     'minimalist boring bleh',
     'a mum running her own home business',
     'like its a luxury brand',
-    'like it would belong in a neon lit street - imagine shibuya/blade runner 2047'
+    'like it would belong in a neon lit street - imagine shibuya/blade runner 2047',
+    '80\'s vintage'
 ]
 
 

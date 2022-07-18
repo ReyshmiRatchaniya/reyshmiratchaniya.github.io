@@ -3,13 +3,26 @@
 
 @import "{{ site.theme }}";
 
+
+
+h1 {
+    color: darkblue;
+}
+
+h3 {
+    color: darkblue;
+}
+
+h4 {
+    color: darkblue;
+}
+// Specific Use Cases
 #brandLogo {
     color: black;
     font-weight: bold;
-}   
+}
 
 #styleOf {
     color: black;
     font-weight: bold;
 }
-
