@@ -12,14 +12,14 @@ We'll attempt to guess each other's prompts afterwards. Have fun!
 
 #### Create
 
-<h3 id="brandLogo">
+<h3 id="brandLogo" class="pairText">
 Brand
     <!-- Brand's appear here -->
 </h3>
 
 #### in the style of
 
-<h3 id="styleOf">
+<h3 id="styleOf" class="pairText">
 Style
     <!-- Style shows up here -->
 </h3>
