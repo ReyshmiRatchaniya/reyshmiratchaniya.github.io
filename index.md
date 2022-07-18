@@ -1,23 +1,23 @@
 ---
 ---
 
-# The Generating Generator
+# The Generating Generator {: .blue}
 
-### How it works
+### How it works {: .blue}
 Click "New Pair" to generate a prompt. Using the prompt, create it and save it. Then click the button again for a new pairing!
 
 We'll attempt to guess each other's prompts afterwards. Have fun!
 
 ***
 
-#### Create
+#### Create {: .blue}
 
 <h3 id="brandLogo">
 Brand
     <!-- Brand's appear here -->
 </h3>
 
-#### in the style of
+#### in the style of {: .blue}
 
 <h3 id="styleOf">
 Style
